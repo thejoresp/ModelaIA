@@ -1,2 +1,2 @@
 # ModelaIA
-## Tp Final Modelado de sistemas de IA
+## Tp Integrador - Modelado de sistemas de IA
