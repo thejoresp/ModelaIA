@@ -5,11 +5,11 @@ En este ejemplo contaras con un archivo .csv de entrada obtenido por webscraping
 Title: Titulo del Artículo
 url: ruta al artículo
 Word count: la cantidad de palabras del artículo,
-# of Links: los enlaces externos que contiene,
-# of comments: cantidad de comentarios,
-# Images video: suma de imágenes (o videos),
+#of Links: los enlaces externos que contiene,
+#of comments: cantidad de comentarios,
+#Images video: suma de imágenes (o videos),
 Elapsed days: la cantidad de días transcurridos (al momento de crear el archivo)
-# Shares: nuestra columna de salida que será la “cantidad de veces que se compartió el artículo”.
+#Shares: nuestra columna de salida que será la “cantidad de veces que se compartió el artículo”.
 A partir de las características de un artículo de machine learning debera intentar predecir, cuantas veces será compartido en Redes Sociales.
 Debera realizar una primer predicción de regresión lineal simple -con una sola variable predictora-  para poder graficar en 2 dimensiones (ejes X e Y) y luego un ejemplo de regresión Lineal Múltiple, en la que utilizara 3  dimensiones (X,Y,Z) y predicciones.
 ### Predecir cuántas veces será compartido un artículo de Machine Learning.
