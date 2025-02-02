@@ -29,7 +29,7 @@ Y = b + m1 X1 + m2 X2 + … + m(n) X(n)
 TIPS:
 - [ ] Utiliar 2 “variables predictivas” para poder graficar en 3D
 - [ ] Visualizar un plano en 3 Dimensiones en Python
-- [ ] Predicción con el modelo de Mútiples Variables
+- [ ] Predicción con el modelo de Mútiples Variablessss
 - [ ] SUGERENCIA: # Para poder graficar en 3D, crear una variable nueva que será la suma de los enlaces, comentarios e imágenes
 La primer variable seguirá siendo la Word Count y la segunda variable será la suma de 3 columnas de entrada: la cantidad de enlaces, comentarios y cantidad de imágenes
 ## Conclusión y Mejora de nuestro modelo
