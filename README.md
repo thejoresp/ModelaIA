@@ -1,5 +1,4 @@
 # ModelaIA
-## Tp Integrador - Modelado de sistemas de IA
 ### Ejercicio Practico a Realizar
 En este ejemplo contaras con un archivo .csv de entrada obtenido por webscraping que contiene diversas URLs a artículos sobre Machine Learning de algunos sitios muy importantes como Techcrunch o KDnuggets y como características de entrada -las columnas- tendremos:
 Title: Titulo del Artículo
